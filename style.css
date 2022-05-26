@@ -1,0 +1,19 @@
+body {
+	font-family : Times new roman, arial
+}
+table {
+	border-collapse : collapse
+}
+th,td {
+	font-size : 14px;
+	border :2px solid #DEDEDE;
+	padding : 3px 5px;
+	color : #303030
+}
+th {
+	background : #CCCCCC;
+	font-size : 15px;
+	border-color : #B0B0B0
+}
+
+
